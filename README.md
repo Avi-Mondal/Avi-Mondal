@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Avi-Mondal
 - 👀 I’m interested in Physics and Mathematics
-- 🌱 I’m currently learning to use python for advancement in maths and physics animations
+- 🌱 I’m currently learning to use python for advancement in maths and physics
 - 💞️ I’m looking to collaborate on Physics and maths
 - 📫 How to reach me ...
 
